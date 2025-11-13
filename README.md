@@ -1,3 +1,5 @@
+DSA-Implementations
+
 🏛️ Library Catalogue System – DSA Mini Project 🎯 Objective
 
 To design a simple library catalogue system that stores book records and allows users to: Add new books Display all books Search books (by title or author) Sort books (by title, author, or ID) This project demonstrates the use of arrays / structures, searching algorithms (Linear / Binary Search), and sorting algorithms (Bubble / Selection / Insertion / Quick Sort).
